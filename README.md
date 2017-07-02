@@ -6,4 +6,4 @@ Programming Starter Kit (PSK) helps undergrad students to start learning program
 
 Enjoy the programming!
 
-#### Start in [here](https://github.com/edu-fi/programming-starter-kit/projects/1)
+#### [Start Here](https://github.com/edu-fi/programming-starter-kit/projects/1)
