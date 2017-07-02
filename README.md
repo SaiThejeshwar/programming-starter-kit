@@ -4,6 +4,6 @@ Many of the young engineers are just wandering where to start learning programmi
 
 Programming Starter Kit (PSK) helps undergrad students to start learning programming. The repo will be frequently updated with new things to learn. 
 
-Enjoy the programming!
+Enjoy programming!
 
 #### [Start Here](https://github.com/edu-fi/programming-starter-kit/projects/1)
