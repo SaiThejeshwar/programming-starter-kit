@@ -6,7 +6,7 @@ Many of the young engineering, science students are just wandering where to star
 - Nurture programming skills of undergrads in the fields of STEM.
 - Help trainee engineers to refresh their programming skills.
 
-Programming Starter Kit (PSK) helps undergrad students to start learning programming. The repo will be frequently updated with new things to learn. 
+The repo will be frequently updated with new things to learn.
 
 Enjoy programming!
 
